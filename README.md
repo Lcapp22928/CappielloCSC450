@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 ###### CappielloCSC450
 
 # Enhancing Education in Computer Science: Evaluation of AI-Assisted Code Generation and Explination
